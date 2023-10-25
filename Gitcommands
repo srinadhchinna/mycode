@@ -1,0 +1,9 @@
+git add -  to add filer to staging area
+git cmmit - staging area to local repository
+vi.git ignore :- create file  and .class or .txt files
+git log: to check commits
+git log --oneline: only onlueline commits short cut
+git show commit id
+git log -1
+git log -2
+git log --grep "commit meessage type"
